@@ -1,0 +1,2 @@
+mail
+mailto:user@site.ru.ru
